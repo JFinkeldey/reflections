@@ -20,9 +20,15 @@ Branches are useful for keeping a master branch while enhancements are done on a
 Branches allow you another level to organize changes on.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help show separation between branches, and parents of branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches combines them, which is why it is graphically represented as branches
+comgin together...
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatic merging takes care of routine merges (different sections of code).
+Manual merges may still be necessary where there are conflicts.
