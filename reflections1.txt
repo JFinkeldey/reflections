@@ -34,6 +34,7 @@ could break something?
 
 If commits are made regularyly at logical intervals, bug tracking should be much easier.
 
+
 Now that you have your workspace set up, what do you want to try using Git for?
 
 Can use for SAS, python, or java code
